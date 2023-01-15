@@ -1,0 +1,9 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+05/02/2017;4380;Miller, Megan;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Buenos Aires;53512788;Carlos Gutiérrez;677,6
+05/02/2017;4380;Miller, Megan;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Chile;53512788;Carlos Gutiérrez;677,6
+05/02/2017;4380;Miller, Megan;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Madrid;53512788;Carlos Gutiérrez;677,6
+05/02/2017;4380;Miller, Megan;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina México;53512788;Carlos Gutiérrez;677,6
+05/02/2017;4381;Wapato Cnia;Maracaibo;Venezuela;Empresa;Offline;Llamado en frío;Oficina Buenos Aires;54154330;Matias Pozo;728,42
+05/02/2017;4381;Wapato Cnia;Maracaibo;Venezuela;Empresa;Offline;Llamado en frío;Oficina Chile;54154330;Matias Pozo;728,42
+05/02/2017;4381;Wapato Cnia;Maracaibo;Venezuela;Empresa;Offline;Llamado en frío;Oficina Madrid;54154330;Matias Pozo;728,42
+05/02/2017;4381;Wapato Cnia;Maracaibo;Venezuela;Empresa;Offline;Llamado en frío;Oficina México;54154330;Matias Pozo;728,42

@@ -1,0 +1,21 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+06/02/2017;4386;Burbank Cnia;Guayaquil;Ecuador;Empresa;Offline;CRM;Oficina Buenos Aires;78532537;Carlos Gutiérrez;792,55
+06/02/2017;4386;Burbank Cnia;Guayaquil;Ecuador;Empresa;Offline;CRM;Oficina Chile;78532537;Carlos Gutiérrez;792,55
+06/02/2017;4386;Burbank Cnia;Guayaquil;Ecuador;Empresa;Offline;CRM;Oficina Madrid;78532537;Carlos Gutiérrez;792,55
+06/02/2017;4386;Burbank Cnia;Guayaquil;Ecuador;Empresa;Offline;CRM;Oficina México;78532537;Carlos Gutiérrez;792,55
+06/02/2017;4382;Watson, Katherine;Ciudad de México;México;Persona;Offline;CRM;Oficina Buenos Aires;61077106;Armando Suárez;130,68
+06/02/2017;4382;Watson, Katherine;Ciudad de México;México;Persona;Offline;CRM;Oficina Chile;61077106;Armando Suárez;130,68
+06/02/2017;4382;Watson, Katherine;Ciudad de México;México;Persona;Offline;CRM;Oficina Madrid;61077106;Armando Suárez;130,68
+06/02/2017;4382;Watson, Katherine;Ciudad de México;México;Persona;Offline;CRM;Oficina México;61077106;Armando Suárez;130,68
+06/02/2017;4384;Gonzalez, Mackenzie;Managua;Nicaragua;Persona;Online;Publicidad en Facebook;Oficina Buenos Aires;71368074;Armando Suárez;346,06
+06/02/2017;4384;Gonzalez, Mackenzie;Managua;Nicaragua;Persona;Online;Publicidad en Facebook;Oficina Chile;71368074;Armando Suárez;346,06
+06/02/2017;4384;Gonzalez, Mackenzie;Managua;Nicaragua;Persona;Online;Publicidad en Facebook;Oficina Madrid;71368074;Armando Suárez;346,06
+06/02/2017;4384;Gonzalez, Mackenzie;Managua;Nicaragua;Persona;Online;Publicidad en Facebook;Oficina México;71368074;Armando Suárez;346,06
+06/02/2017;4383;Garcia, Michael;Trujillo;Perú;Persona;Online;Publicidad en Google;Oficina Buenos Aires;66893100;Nicolás Mangia;352,11
+06/02/2017;4383;Garcia, Michael;Trujillo;Perú;Persona;Online;Publicidad en Google;Oficina Chile;66893100;Nicolás Mangia;352,11
+06/02/2017;4383;Garcia, Michael;Trujillo;Perú;Persona;Online;Publicidad en Google;Oficina Madrid;66893100;Nicolás Mangia;352,11
+06/02/2017;4383;Garcia, Michael;Trujillo;Perú;Persona;Online;Publicidad en Google;Oficina México;66893100;Nicolás Mangia;352,11
+06/02/2017;4385;Sharma, Ethan;Los Angeles;Estados Unidos;Persona;Offline;Publicidad en la radio;Oficina Buenos Aires;55563300;Josefina Pérez;805,86
+06/02/2017;4385;Sharma, Ethan;Los Angeles;Estados Unidos;Persona;Offline;Publicidad en la radio;Oficina Chile;55563300;Josefina Pérez;805,86
+06/02/2017;4385;Sharma, Ethan;Los Angeles;Estados Unidos;Persona;Offline;Publicidad en la radio;Oficina Madrid;55563300;Josefina Pérez;805,86
+06/02/2017;4385;Sharma, Ethan;Los Angeles;Estados Unidos;Persona;Offline;Publicidad en la radio;Oficina México;55563300;Josefina Pérez;805,86

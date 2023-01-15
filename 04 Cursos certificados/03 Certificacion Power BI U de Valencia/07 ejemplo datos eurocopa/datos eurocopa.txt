@@ -1,0 +1,22 @@
+
+Obtener datos de web https://en.wikipedia.org/wiki/UEFA_European_Football_Championship
+
+Dejar solo las columnas Year y Winner
+
+Eliminar la palabra Details de la columna Year.
+
+Filtrar la columna Year y quitar las palabras Year.
+
+Filtar la columna Winner y quitar las filas vacías.
+
+Cambiar el nombre de la columna Year a year y Winner a Country
+
+Crear un mapa en el que el tamaño de la bola de cada país indique el número de veces que ha ganado y que aparezca la información al pasar el cursor. Cambiar el el color de cada país indicando el número de veces que ha ganado con un formato condicional.
+
+Crear en el grupo ubicación un grupo para Germany y West-Germany que se llame Germany para que los resultados salgan agrupados, un grupo que se llame Russia con el país Soviet Union y un grupo que se llame Czech Republic con Czechoslovakia para que salga en el mapa (utilizar la flecha que aparece a la derecha del nombre del campo en la zona ubicación para crear los grupos). Ir a la pestaña de modelado e indicar que la categoría de este campo agrupado es país o región.
+
+Desactivar el zoom automático en el mapa y centrar el zoom para que salga la zona de interés.
+
+Arrastrar el campo grupos de país al canvas y aplicarle la visualización de barras horizontales.
+
+Añadir al campo de valores del gráfico el campo Year para que haga un recuento de años de cada país, comprobar que las barras se ordenan de mayor a menor por el campo del recuento.

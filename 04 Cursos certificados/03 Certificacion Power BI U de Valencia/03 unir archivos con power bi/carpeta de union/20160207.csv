@@ -1,0 +1,20 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+07/02/2017;4391;Serrano, Naomi;Ciudad de Guatemala;Guatemala;Persona;Offline;CRM;Oficina Buenos Aires;66379305;Sebastián Sánchez;594,11
+07/02/2017;4391;Serrano, Naomi;Ciudad de Guatemala;Guatemala;Persona;Offline;CRM;Oficina Chile;66379305;Sebastián Sánchez;594,11
+07/02/2017;4391;Serrano, Naomi;Ciudad de Guatemala;Guatemala;Persona;Offline;CRM;Oficina Madrid;66379305;Sebastián Sánchez;594,11
+07/02/2017;4391;Serrano, Naomi;Ciudad de Guatemala;Guatemala;Persona;Offline;CRM;Oficina México;66379305;Sebastián Sánchez;594,11
+07/02/2017;4387;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Buenos Aires;68324755;Adriana Bossio;742,94
+07/02/2017;4387;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Chile;68324755;Adriana Bossio;742,94
+07/02/2017;4387;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina Madrid;68324755;Adriana Bossio;742,94
+07/02/2017;4387;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Desconocido;Oficina México;68324755;Adriana Bossio;742,94
+07/02/2017;4389;Rivera, Cody;Barcelona;España;Persona;Online;Email en frío;Oficina Buenos Aires;51427463;Adriana Bossio;814,33
+07/02/2017;4389;Rivera, Cody;Barcelona;España;Persona;Online;Email en frío;Oficina Chile;51427463;Adriana Bossio;814,33
+07/02/2017;4389;Rivera, Cody;Barcelona;España;Persona;Online;Email en frío;Oficina México;51427463;Adriana Bossio;814,33
+07/02/2017;4388;Reed, Richard;Asunción;Paraguay;Persona;Online;Publicidad en Google;Oficina Buenos Aires;68147951;Nicolás Mangia;304,92
+07/02/2017;4388;Reed, Richard;Asunción;Paraguay;Persona;Online;Publicidad en Google;Oficina Chile;68147951;Nicolás Mangia;304,92
+07/02/2017;4388;Reed, Richard;Asunción;Paraguay;Persona;Online;Publicidad en Google;Oficina Madrid;68147951;Nicolás Mangia;304,92
+07/02/2017;4388;Reed, Richard;Asunción;Paraguay;Persona;Online;Publicidad en Google;Oficina México;68147951;Nicolás Mangia;304,92
+07/02/2017;4390;Baker, Natalie;Medellín;Colombia;Persona;Offline;Publicidad en la radio;Oficina Buenos Aires;87953469;Sebastián Sánchez;154,88
+07/02/2017;4390;Baker, Natalie;Medellín;Colombia;Persona;Offline;Publicidad en la radio;Oficina Chile;87953469;Sebastián Sánchez;154,88
+07/02/2017;4390;Baker, Natalie;Medellín;Colombia;Persona;Offline;Publicidad en la radio;Oficina Madrid;87953469;Sebastián Sánchez;154,88
+07/02/2017;4390;Baker, Natalie;Medellín;Colombia;Persona;Offline;Publicidad en la radio;Oficina México;87953469;Sebastián Sánchez;154,88

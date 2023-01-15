@@ -1,0 +1,33 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+08/02/2017;4398;Guo, Curtis;Córdoba;Argentina;Persona;Offline;Desconocido;Oficina Buenos Aires;58585714;Julio Zapatero;969,21
+08/02/2017;4398;Guo, Curtis;Córdoba;Argentina;Persona;Offline;Desconocido;Oficina Chile;58585714;Julio Zapatero;969,21
+08/02/2017;4398;Guo, Curtis;Córdoba;Argentina;Persona;Offline;Desconocido;Oficina Madrid;58585714;Julio Zapatero;969,21
+08/02/2017;4398;Guo, Curtis;Córdoba;Argentina;Persona;Offline;Desconocido;Oficina México;58585714;Julio Zapatero;969,21
+08/02/2017;4396;Falmouth Cnia;Tegucigalpa;Honduras;Empresa;Online;Email en frío;Oficina Buenos Aires;71077102;Gastón García;136,73
+08/02/2017;4396;Falmouth Cnia;Tegucigalpa;Honduras;Empresa;Online;Email en frío;Oficina Chile;71077102;Gastón García;136,73
+08/02/2017;4396;Falmouth Cnia;Tegucigalpa;Honduras;Empresa;Online;Email en frío;Oficina Madrid;71077102;Gastón García;136,73
+08/02/2017;4396;Falmouth Cnia;Tegucigalpa;Honduras;Empresa;Online;Email en frío;Oficina México;71077102;Gastón García;136,73
+08/02/2017;4399;Kumar, Andres;Trujillo;Perú;Persona;Online;Email en frío;Oficina Buenos Aires;72955329;Carlos Gutiérrez;1035,76
+08/02/2017;4399;Kumar, Andres;Trujillo;Perú;Persona;Online;Email en frío;Oficina Chile;72955329;Carlos Gutiérrez;1035,76
+08/02/2017;4399;Kumar, Andres;Trujillo;Perú;Persona;Online;Email en frío;Oficina Madrid;72955329;Carlos Gutiérrez;1035,76
+08/02/2017;4399;Kumar, Andres;Trujillo;Perú;Persona;Online;Email en frío;Oficina México;72955329;Carlos Gutiérrez;1035,76
+08/02/2017;4394;Williams, Hannah;Toluca;México;Persona;Online;Email en frío;Oficina Buenos Aires;47610804;Guillermina González;171,82
+08/02/2017;4394;Williams, Hannah;Toluca;México;Persona;Online;Email en frío;Oficina Chile;47610804;Guillermina González;171,82
+08/02/2017;4394;Williams, Hannah;Toluca;México;Persona;Online;Email en frío;Oficina Madrid;47610804;Guillermina González;171,82
+08/02/2017;4394;Williams, Hannah;Toluca;México;Persona;Online;Email en frío;Oficina México;47610804;Guillermina González;171,82
+08/02/2017;4392;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Llamado en frío;Oficina Buenos Aires;68324755;Gastón García;752,62
+08/02/2017;4392;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Llamado en frío;Oficina Chile;68324755;Gastón García;752,62
+08/02/2017;4392;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Llamado en frío;Oficina Madrid;68324755;Gastón García;752,62
+08/02/2017;4392;Foster, Alexandra;Caracas;Venezuela;Persona;Offline;Llamado en frío;Oficina México;68324755;Gastón García;752,62
+08/02/2017;4397;Hill, Andrea;Montevideo;Uruguay;Persona;Online;Publicidad en Facebook;Oficina Buenos Aires;69117083;Matias Pozo;494,89
+08/02/2017;4397;Hill, Andrea;Montevideo;Uruguay;Persona;Online;Publicidad en Facebook;Oficina Chile;69117083;Matias Pozo;494,89
+08/02/2017;4397;Hill, Andrea;Montevideo;Uruguay;Persona;Online;Publicidad en Facebook;Oficina Madrid;69117083;Matias Pozo;494,89
+08/02/2017;4397;Hill, Andrea;Montevideo;Uruguay;Persona;Online;Publicidad en Facebook;Oficina México;69117083;Matias Pozo;494,89
+08/02/2017;4393;Kiela Cnia;Caracas;Venezuela;Empresa;Online;Publicidad en Google;Oficina Buenos Aires;56553411;Armando Suárez;624,36
+08/02/2017;4393;Kiela Cnia;Caracas;Venezuela;Empresa;Online;Publicidad en Google;Oficina Chile;56553411;Armando Suárez;624,36
+08/02/2017;4393;Kiela Cnia;Caracas;Venezuela;Empresa;Online;Publicidad en Google;Oficina Madrid;56553411;Armando Suárez;624,36
+08/02/2017;4393;Kiela Cnia;Caracas;Venezuela;Empresa;Online;Publicidad en Google;Oficina México;56553411;Armando Suárez;624,36
+08/02/2017;4395;Wu, Alejandro;Córdoba;Argentina;Persona;Online;Publicidad en Google;Oficina Buenos Aires;49004043;Josefina Pérez;1038,18
+08/02/2017;4395;Wu, Alejandro;Córdoba;Argentina;Persona;Online;Publicidad en Google;Oficina Chile;49004043;Josefina Pérez;1038,18
+08/02/2017;4395;Wu, Alejandro;Córdoba;Argentina;Persona;Online;Publicidad en Google;Oficina Madrid;49004043;Josefina Pérez;1038,18
+08/02/2017;4395;Wu, Alejandro;Córdoba;Argentina;Persona;Online;Publicidad en Google;Oficina México;49004043;Josefina Pérez;1038,18

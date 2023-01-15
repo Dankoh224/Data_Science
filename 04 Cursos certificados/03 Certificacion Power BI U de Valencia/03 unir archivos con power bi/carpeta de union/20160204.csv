@@ -1,0 +1,20 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+04/02/2017;4377;Baker, Edward;San Salvador;El Salvador;Persona;Offline;Desconocido;Oficina Buenos Aires;68335158;Sebastián Sánchez;346,06
+04/02/2017;4377;Baker, Edward;San Salvador;El Salvador;Persona;Offline;Desconocido;Oficina Chile;68335158;Sebastián Sánchez;346,06
+04/02/2017;4377;Baker, Edward;San Salvador;El Salvador;Persona;Offline;Desconocido;Oficina Madrid;68335158;Sebastián Sánchez;346,06
+04/02/2017;4377;Baker, Edward;San Salvador;El Salvador;Persona;Offline;Desconocido;Oficina México;68335158;Sebastián Sánchez;346,06
+04/02/2017;4379;Howard, Gabriella;Lima;Perú;Persona;Offline;Desconocido;Oficina Buenos Aires;54320374;Adriana Bossio;1082,95
+04/02/2017;4379;Howard, Gabriella;Lima;Perú;Persona;Offline;Desconocido;Oficina Madrid;54320374;Adriana Bossio;1082,95
+04/02/2017;4379;Howard, Gabriella;Lima;Perú;Persona;Offline;Desconocido;Oficina México;54320374;Adriana Bossio;1082,95
+04/02/2017;4376;Kiela Cnia;Caracas;Venezuela;Empresa;Offline;Desconocido;Oficina Buenos Aires;56553411;Adriana Bossio;243,21
+04/02/2017;4376;Kiela Cnia;Caracas;Venezuela;Empresa;Offline;Desconocido;Oficina Chile;56553411;Adriana Bossio;243,21
+04/02/2017;4376;Kiela Cnia;Caracas;Venezuela;Empresa;Offline;Desconocido;Oficina Madrid;56553411;Adriana Bossio;243,21
+04/02/2017;4376;Kiela Cnia;Caracas;Venezuela;Empresa;Offline;Desconocido;Oficina México;56553411;Adriana Bossio;243,21
+04/02/2017;4378;Diaz, Antonio;Guadalajara;México;Persona;Offline;Publicidad en la radio;Oficina Buenos Aires;49526580;Nicolás Mangia;523,93
+04/02/2017;4378;Diaz, Antonio;Guadalajara;México;Persona;Offline;Publicidad en la radio;Oficina Chile;49526580;Nicolás Mangia;523,93
+04/02/2017;4378;Diaz, Antonio;Guadalajara;México;Persona;Offline;Publicidad en la radio;Oficina Madrid;49526580;Nicolás Mangia;523,93
+04/02/2017;4378;Diaz, Antonio;Guadalajara;México;Persona;Offline;Publicidad en la radio;Oficina México;49526580;Nicolás Mangia;523,93
+04/02/2017;4375;Robinson, Anna;San José;Costa Rica;Persona;Offline;Publicidad en la radio;Oficina Buenos Aires;52051203;Armando Suárez;972,84
+04/02/2017;4375;Robinson, Anna;San José;Costa Rica;Persona;Offline;Publicidad en la radio;Oficina Chile;52051203;Armando Suárez;972,84
+04/02/2017;4375;Robinson, Anna;San José;Costa Rica;Persona;Offline;Publicidad en la radio;Oficina Madrid;52051203;Armando Suárez;972,84
+04/02/2017;4375;Robinson, Anna;San José;Costa Rica;Persona;Offline;Publicidad en la radio;Oficina México;52051203;Armando Suárez;972,84

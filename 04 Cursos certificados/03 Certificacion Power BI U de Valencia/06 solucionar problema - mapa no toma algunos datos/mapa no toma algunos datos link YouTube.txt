@@ -1,0 +1,4 @@
+
+En el ejemplo anterior podéis ver que los estados de Florida y Kentucky no salen coloreados en el mapa. El servicio de mapas de Bing confunde a veces los nombres de estados, provincias y/o ciudades y, o no los incluye, o los representa en otro lugar. Se puede solucionar concatenando el nombre del país en la parte inicial del campo a usar como referencia de lugar
+
+https://www.youtube.com/watch?v=kGUNG84X_q0&t=222s&ab_channel=UniversitatPolit%C3%A8cnicadeVal%C3%A8ncia-UPV

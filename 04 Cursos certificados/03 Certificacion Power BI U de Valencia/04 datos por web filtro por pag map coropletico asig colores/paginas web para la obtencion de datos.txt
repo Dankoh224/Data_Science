@@ -1,0 +1,16 @@
+https://web.archive.org/web/20180717124908/https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/
+
+
+https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations
+
+quitar las primeras 3 filas 
+quitar las 26 ultimas filas
+eliminar washington DC filtrando distrito federal
+Dejar solo las columnas 2 y 5 
+usar la primera fila como encabezado
+cambiar nombre de las columnas y la table
+
+combinar los datos del codigo corto de estado en la primera tabla
+
+mas datos
+https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/

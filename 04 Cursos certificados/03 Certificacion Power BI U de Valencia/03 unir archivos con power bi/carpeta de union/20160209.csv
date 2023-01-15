@@ -1,0 +1,4 @@
+Fecha;IDFactura;Cliente;Ciudad;País;Segmento;Medio;Canal;Oficina;Teléfono;Vendedor;MontoFactura
+09/02/2017;4400;Brooks, Garrett;Buenos Aires;Argentina;Persona;Offline;CRM;Oficina Buenos Aires;50138389;Sebastián Sánchez;945,01
+09/02/2017;4400;Brooks, Garrett;Buenos Aires;Argentina;Persona;Offline;CRM;Oficina Chile;50138389;Sebastián Sánchez;945,01
+09/02/2017;4400;Brooks, Garrett;Buenos Aires;Argentina;Persona;Offline;CRM;Oficina México;50138389;Sebastián Sánchez;945,01
